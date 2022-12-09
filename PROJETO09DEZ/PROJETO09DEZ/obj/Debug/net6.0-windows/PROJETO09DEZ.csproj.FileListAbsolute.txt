@@ -1,0 +1,17 @@
+C:\Users\mathe_t25duet\source\repos\PROJETO09DEZ\PROJETO09DEZ\bin\Debug\net6.0-windows\PROJETO09DEZ.exe
+C:\Users\mathe_t25duet\source\repos\PROJETO09DEZ\PROJETO09DEZ\bin\Debug\net6.0-windows\PROJETO09DEZ.deps.json
+C:\Users\mathe_t25duet\source\repos\PROJETO09DEZ\PROJETO09DEZ\bin\Debug\net6.0-windows\PROJETO09DEZ.runtimeconfig.json
+C:\Users\mathe_t25duet\source\repos\PROJETO09DEZ\PROJETO09DEZ\bin\Debug\net6.0-windows\PROJETO09DEZ.dll
+C:\Users\mathe_t25duet\source\repos\PROJETO09DEZ\PROJETO09DEZ\bin\Debug\net6.0-windows\PROJETO09DEZ.pdb
+C:\Users\mathe_t25duet\source\repos\PROJETO09DEZ\PROJETO09DEZ\obj\Debug\net6.0-windows\PROJETO09DEZ.csproj.AssemblyReference.cache
+C:\Users\mathe_t25duet\source\repos\PROJETO09DEZ\PROJETO09DEZ\obj\Debug\net6.0-windows\PROJETO09DEZ.Form1.resources
+C:\Users\mathe_t25duet\source\repos\PROJETO09DEZ\PROJETO09DEZ\obj\Debug\net6.0-windows\PROJETO09DEZ.csproj.GenerateResource.cache
+C:\Users\mathe_t25duet\source\repos\PROJETO09DEZ\PROJETO09DEZ\obj\Debug\net6.0-windows\PROJETO09DEZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe_t25duet\source\repos\PROJETO09DEZ\PROJETO09DEZ\obj\Debug\net6.0-windows\PROJETO09DEZ.AssemblyInfoInputs.cache
+C:\Users\mathe_t25duet\source\repos\PROJETO09DEZ\PROJETO09DEZ\obj\Debug\net6.0-windows\PROJETO09DEZ.AssemblyInfo.cs
+C:\Users\mathe_t25duet\source\repos\PROJETO09DEZ\PROJETO09DEZ\obj\Debug\net6.0-windows\PROJETO09DEZ.csproj.CoreCompileInputs.cache
+C:\Users\mathe_t25duet\source\repos\PROJETO09DEZ\PROJETO09DEZ\obj\Debug\net6.0-windows\PROJETO09DEZ.dll
+C:\Users\mathe_t25duet\source\repos\PROJETO09DEZ\PROJETO09DEZ\obj\Debug\net6.0-windows\refint\PROJETO09DEZ.dll
+C:\Users\mathe_t25duet\source\repos\PROJETO09DEZ\PROJETO09DEZ\obj\Debug\net6.0-windows\PROJETO09DEZ.pdb
+C:\Users\mathe_t25duet\source\repos\PROJETO09DEZ\PROJETO09DEZ\obj\Debug\net6.0-windows\PROJETO09DEZ.genruntimeconfig.cache
+C:\Users\mathe_t25duet\source\repos\PROJETO09DEZ\PROJETO09DEZ\obj\Debug\net6.0-windows\ref\PROJETO09DEZ.dll
